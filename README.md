@@ -9,6 +9,6 @@ There are 30 subjects and 6 activities, for a total of 180 different subject/act
 
 ## code_book.txt
 
-This file describes the different variables that are considered in the output file "tidyData". 
+This file describes the different variables that are considered in the output file "tidyData". The file contains details about hte meaning and significance of these features. 
 
 
